@@ -1,0 +1,21 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "author": "mohammad ziya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "otp-generator": "^4.0.1",
+    "twilio": "^5.7.0"
+  }
+}
