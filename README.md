@@ -1,10 +1,4 @@
-Great, Ziya bhai — if your **Meesho clone's backend** is in a **separate repo**, then its `README.md` should be focused only on the backend: the **Node.js + Express + MongoDB API**, including routes, models, auth, and how to use it.
 
-Here’s a full professional README template for your **Meesho Clone Backend** repo:
-
----
-
-```markdown
 # 🔙 Meesho Clone - Backend API
 
 This is the backend for the **Meesho E-Commerce Clone** built using **Node.js, Express.js, and MongoDB**. It provides RESTful APIs for user authentication, product management, cart functionality, and admin operations.
