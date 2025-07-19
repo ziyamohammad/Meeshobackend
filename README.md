@@ -152,12 +152,3 @@ If this project helped you, give it a ⭐ and feel free to fork and build upon i
 
 ```
 
----
-
-### ✅ Next Step
-- Replace URLs with your actual repo and deployment links
-- Add a Postman collection (optional)
-- Pin this repo with your frontend on GitHub for full-stack visibility
-
-Let me know if you want a **README badge section**, **deployment help**, or a **Postman export** for your APIs.
-```
